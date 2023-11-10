@@ -1,0 +1,82 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+a {
+    text-decoration: none;
+
+}
+
+#logo {
+    height: 10px;
+}
+h1 {
+    text-align: center;
+    color: aqua;
+}
+
+#image {
+    width: 400%
+}
+#about {
+    display: flex;
+    max-width: 800px;
+    margin: 0 auto;
+}
+#description {
+    width: 50%;
+    padding: 8px;
+}
+#side {
+    width: 50%;
+    padding: 8px;
+}
+#side-image {
+    border-radius: 5px;
+    margin-left: 100px;
+    
+}
+.location {
+    color: aqua;
+    margin-bottom: 16px;
+}
+h2 {
+    text-align: center;
+    color: aqua;
+}
+#jobs {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0;
+}
+
+h3 {
+    margin-bottom: 4px;
+    margin-top: 0;
+}
+.Nape-connect {
+    float: right;
+}
+
+#footer{
+    background-color: aqua;
+    padding: 8px;
+    margin-top: 32px;
+    text-align: center;
+}
+
+#footer-links {
+    list-style: none;
+    
+}
+
+#footer-links li {
+    display: inline;
+    margin: 0 16px;
+}
+
+.copyright {
+    color: blue;
+}
